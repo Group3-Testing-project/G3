@@ -12,8 +12,12 @@ Automation Project SWAG Labs
 
 👥 Team Members (Group 3):
 
-Maha Mansour
+Maha Mansour 
+
 Shimaa El Sayed
+
 Nardeen Saiid
+
 Sally Magdy
+
 Nour El Din Gamal
