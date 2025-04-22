@@ -2,11 +2,11 @@ this group 3 team Depi graduation projest files
 
 
 
-Manual Testing for OpenCart
+- Manual Testing for OpenCart
 
-API Testing using JSON and a simple books API (Glitch)
+- API Testing using JSON and a simple books API (Glitch)
 
-Automation Project SWAG Labs
+- Automation Project SWAG Labs
 
 
 
