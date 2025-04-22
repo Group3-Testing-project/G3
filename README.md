@@ -2,7 +2,7 @@ this group 3 team Depi graduation projest files
 
 
 
-- Manual Testing for OpenCart
+- Manual Testing for OpenCart website
 
 - API Testing using JSON and a simple books API (Glitch)
 
